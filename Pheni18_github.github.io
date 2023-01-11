@@ -18,8 +18,6 @@
     </head>
      <body>
         
-          <img src="C:\Users\karim\OneDrive\Bureau\maxresdefault.jpg" alt="Photo logo google" >
-        
-        
+          <img src="./marxesdefault.jpeg" alt="logo google">
     </body>
 </html>
