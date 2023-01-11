@@ -5,8 +5,7 @@
         <meta charset="utf-8">
         <title>page reproduction google  </title>
         <link href="googleR.css" rel="stylesheet">
-
-            
+  
             <nav>
                 
                  <a href="https://www.google.com/intl/fr/gmail/about/">Gmail</a>
@@ -14,7 +13,6 @@
                  
             </nav>  
          
-
     </head>
      <body>
         
